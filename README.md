@@ -33,7 +33,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/osama-jaradat-902674247/"><img src="https://img.shields.io/badge/shivansh-shrivastava-716013205/style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:osojr2017@gmail.com"><img src="https://img.shields.io/badge/-shivansh01308@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Oso00Luffy/"><img src="https://img.shields.io/badge/-@Shivansh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/osama-jaradat-902674247/"><img src="logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:osojr2017@gmail.com"><img src="logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Oso00Luffy/"><img src="logo=Instagram&logoColor=white"/></a>
 </p>
