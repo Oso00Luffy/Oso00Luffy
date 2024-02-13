@@ -1,5 +1,3 @@
-# README
-Know more about me.
 
 <h1 align="center">Hi 👋, I'm Osama Jaradat</h1>
 <h3 align="center">Cyber Security Student</h3>
