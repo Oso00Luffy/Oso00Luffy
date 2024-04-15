@@ -34,6 +34,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neta" /></a><a href="https://ko-fi.com/oso00luffy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="oso00luffy" /></a></p><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oso00luffy&show_icons=true&locale=en" alt="oso00luffy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oso00luffy&" alt="oso00luffy" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=oso00luffy&show_icons=true&locale=en" alt="oso00luffy" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oso00luffy&" alt="oso00luffy" /></p>
 
