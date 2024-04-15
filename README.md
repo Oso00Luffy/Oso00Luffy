@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Anime has more logical knowledge than you thought**
 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oso00luffy&show_icons=true&locale=en&layout=compact" alt="oso00luffy" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/oso00luffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oso00luffy" height="30" width="40" /></a>
@@ -32,7 +34,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neta" /></a><a href="https://ko-fi.com/oso00luffy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="oso00luffy" /></a></p><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oso00luffy&show_icons=true&locale=en&layout=compact" alt="oso00luffy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oso00luffy&show_icons=true&locale=en" alt="oso00luffy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oso00luffy&" alt="oso00luffy" /></p>
 
