@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Anime has more logical knowledge than you thought**
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oso00luffy&show_icons=true&locale=en&layout=compact" alt="oso00luffy" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oso00luffy&show_icons=true&locale=en&layout=compact" alt="oso00luffy" /> <br/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
