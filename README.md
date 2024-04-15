@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **Anime has more logical knowledge than you thought**
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oso00luffy&show_icons=true&locale=en&layout=compact" alt="oso00luffy" /> <br/> </p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oso00luffy&show_icons=true&locale=en&layout=compact" alt="oso00luffy" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <br/> Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/oso00luffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oso00luffy" height="30" width="40" /></a>
 <a href="https://twitter.com/oso_luffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oso_luffy" height="30" width="40" /></a>
