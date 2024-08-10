@@ -2,7 +2,7 @@
 
 ## Hello everyone 👋
 
-![Osama](https://media1.giphy.com/media/mPxA66wgs8s4o/giphy.gif?cid=6c09b9526cg2jvh56ox41nr3yrtzh7ib66zf86t9tp4cy4g0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Osama](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA5cXEzeTlmdW9xYzJrdWYydml2NXZ1OHMxMXIxeDVzM2ozaHRpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPxA66wgs8s4o/giphy.gif)
 
 
 ## My name is Osama! 😎
