@@ -2,7 +2,7 @@
 
 ## Hello everyone 👋
 
-![Osama](https://pa1.aminoapps.com/6871/a39cb5cfbc76461df0f66fbec4cb7864f181ca56r1-296-166_00.gif)
+![Osama](https://static.wikia.nocookie.net/pathfinders/images/9/9f/1542545785_previewfile_1364278549.gif/revision/latest?cb=20200102224006&path-prefix=es)
 
 
 ## My name is Osama! 😎
