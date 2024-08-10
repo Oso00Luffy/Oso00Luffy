@@ -2,7 +2,7 @@
 
 ## Hello everyone 👋
 
-![Osama](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTA5cXEzeTlmdW9xYzJrdWYydml2NXZ1OHMxMXIxeDVzM2ozaHRpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPxA66wgs8s4o/giphy.gif)
+![Osama](https://media1.tenor.com/m/K9yYRKhI6OIAAAAC/steins-gate.gif)
 
 
 ## My name is Osama! 😎
