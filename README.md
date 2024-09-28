@@ -7,9 +7,9 @@
 
 ## My name is Osama! 😎
 
-- ⚠️ Fresh Graduate with passion to develop!
+- ⚠️ Passionate to develop!
 -  I’m 22 years old!
--  I’m publishing projects for paid/free purposes
+-  A Cybersecurity specialist with a strong foundation in network security, threat analysis, and incident response. Proficient in using tools such as Kali Linux, Wireshark, and Metasploit, specializing in vulnerability assessment and penetration testing. My projects and practical courses have provided me with hands-on experience in malware analysis and setting up secure networks. I am eager to apply my skills through work, contribute to protecting digital assets, and provide cloud solutions.
 
 [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,docker,git,github,heroku,redis,mongodb,java,py,ts,js,fastapi&perline=10)](https://xditya.me)
 
