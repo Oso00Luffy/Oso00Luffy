@@ -8,7 +8,7 @@
 🛠️ About Me:
 ---
 
-Welcome to the GitHub repository of **[Your Name]**, a [Year] graduate from [Your University] with a degree in [Your Major]. Throughout my studies, I excelled academically, gaining expertise in areas like software development, system design, and cybersecurity. These skills have equipped me to tackle the rapidly evolving world of IT and technology.
+Welcome to the GitHub repository of **Osama Jaradat**, a 2025 graduate from Tafila Technical University with a degree in Cyber Security. Throughout my studies, I excelled academically, gaining expertise in areas like software development, system design, and cybersecurity. These skills have equipped me to tackle the rapidly evolving world of IT and technology.
 
 ### Full-Stack Developer  
 As a Full-Stack Developer, I am capable of designing and developing web applications from frontend to backend. I work with technologies such as:
@@ -21,9 +21,6 @@ As a Full-Stack Developer, I am capable of designing and developing web applicat
 
 ### Cybersecurity Specialist  
 With my background in cybersecurity, I can provide comprehensive analysis, system hardening, and vulnerability assessments to ensure secure environments for projects and applications.
-
-### Digital Marketer  
-I also focus on SEO and content optimization for enhancing web traffic and online presence.
 
 🔧 **I’m currently working on:**  
 - Deploying full-stack applications, enhancing SEO for websites, and working on game development.
@@ -44,7 +41,7 @@ I also focus on SEO and content optimization for enhancing web traffic and onlin
 
 🌍 **Socials:**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/osama.143r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/osama-jaradat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Oso_Luffy)
 
 ---
 
