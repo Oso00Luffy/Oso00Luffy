@@ -53,12 +53,12 @@ With my background in cybersecurity, I can provide comprehensive analysis, syste
 
 📊 **GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oso00Luffy&layout=compact&theme=radical)
 
 | GitHub Stats | Most Used Languages |
 | ------------ | ------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oso00Luffy&layout=compact&theme=radical) |
 
 ---
 
@@ -66,11 +66,11 @@ With my background in cybersecurity, I can provide comprehensive analysis, syste
 
 | Repository | Contribution |
 | ---------- | ------------ |
-| [cookiesweet](https://github.com/YourUsername/cookiesweet) | B |
-| [YourName](https://github.com/YourUsername/YourRepo) | B |
-| [carDealer](https://github.com/YourUsername/carDealer) | B |
-| [Nablo](https://github.com/YourUsername/Nablo) | B |
-| [WP-Woocommerce-product-categories-display](https://github.com/YourUsername/WP-Woocommerce-product-categories-display) | B |
+| [cookiesweet](https://github.com/Oso00Luffy/cookiesweet) | B |
+| [YourName](https://github.com/Oso00Luffy/YourRepo) | B |
+| [carDealer](https://github.com/Oso00Luffy/carDealer) | B |
+| [Nablo](https://github.com/Oso00Luffy/Nablo) | B |
+| [WP-Woocommerce-product-categories-display](https://github.com/Oso00Luffy/WP-Woocommerce-product-categories-display) | B |
 
 ---
 
@@ -85,4 +85,5 @@ _“The science of operations, as derived from mathematics more especially, is a
 
 If you find my content helpful, you can help support me here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com) [![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com) [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com) [![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/osamasenpaiii
+) [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com)
