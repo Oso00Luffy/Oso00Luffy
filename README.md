@@ -48,13 +48,8 @@ With my background in cybersecurity, I can provide comprehensive analysis, syste
 
 ---
 
-📊 **GitHub Stats:**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oso00Luffy&layout=compact&theme=radical)
-
-| GitHub Stats | Most Used Languages |
-| ------------ | ------------------- |
+| 📊 GitHub Stats | Most Used Languages |
+| ---------------- | ------------------- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oso00Luffy&layout=compact&theme=radical) |
 
 ---
