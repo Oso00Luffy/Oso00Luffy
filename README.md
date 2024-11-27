@@ -58,18 +58,17 @@ With my background in cybersecurity, I can provide comprehensive analysis, syste
 
 | Repository | Contribution |
 | ---------- | ------------ |
-| [cookiesweet](https://github.com/Oso00Luffy/cookiesweet) | B |
-| [Portfolio](https://github.com/Oso00Luffy/portfolio) | B |
-| [carDealer](https://github.com/Oso00Luffy/carDealer) | B |
-| [Nablo](https://github.com/Oso00Luffy/Nablo) | B |
-| [WP-Woocommerce-product-categories-display](https://github.com/Oso00Luffy/WP-Woocommerce-product-categories-display) | B |
+| [HSR_Irminsul](https://github.com/Oso00Luffy/HSR_Irminsul) | SS |
+| [Portfolio](https://github.com/Oso00Luffy/portfolio) | A |
+| [hsrarabic](https://github.com/Oso00Luffy/hsrarabic) | S |
+| [CV](https://github.com/Oso00Luffy/CV) | A |
 
 ---
 
 💬 **Random Dev Quote:**
 
-_“The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.”_  
-— Ada Lovelace
+_“Knowledge is a paradox. The more one understands, the more one realizes the vastness of his ignorance.”_  
+— Arcane Series - Viktor
 
 ---
 
