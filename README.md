@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! This repository contains information about me, my skills, and the projects I have worked on. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
 ## Table of Contents
-- [About Me](#🛠-about-me)
+- [About Me](#%EF%B8%8F-about-me)
 - [Full-Stack Developer](#full-stack-developer)
 - [Cybersecurity Specialist](#cybersecurity-specialist)
 - [Current Work](#🔧-current-work)
