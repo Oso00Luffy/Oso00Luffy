@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! This repository contains information about me, my skills, and the projects I have worked on. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
 ## Table of Contents
-- [About Me](#-about-me)
+- [About Me](#🛠-about-me)
 - [Full-Stack Developer](#full-stack-developer)
 - [Cybersecurity Specialist](#cybersecurity-specialist)
 - [Current Work](#🔧-current-work)
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! This repository contains information about me, my 
 - [Top Contributed Repos](#📈-top-contributed-repos)
 - [Dev Quote](#💬-dev-quote)
 - [Support My Work](#💰-support-my-work)
-
 ## 🛠️ About Me
 ---
 Welcome to the GitHub repository of **Osama Jaradat**, a 2025 graduate from Tafila Technical University with a degree in Cyber Security. Throughout my studies, I excelled academically, gaining experience in various fields.
