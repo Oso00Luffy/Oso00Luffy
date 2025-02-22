@@ -73,7 +73,7 @@ With my background in cybersecurity, I provide comprehensive analysis, system ha
 ## Top Contributed Repos
 | Repository | Contribution |
 | ---------- | ------------ |
-| [HSR_Irminsul](https://github.com/Oso00Luffy/HSR_Irminsul) | SS |
+| [HSR_Irminsul](https://github.com/Oso00Luffy/Honkai_Star_Rail_In_Arabic) | SS |
 | [Portfolio](https://github.com/Oso00Luffy/portfolio) | A |
 | [hsrarabic](https://github.com/Oso00Luffy/hsrarabic) | S |
 | [CV](https://github.com/Oso00Luffy/CV) | A |
