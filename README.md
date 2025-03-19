@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7520B&width=435&lines=EL+PSY+KONGROO;Welcome+to+my+Github+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <p align="center">
-![Osama](https://static.wikia.nocookie.net/pathfinders/images/9/9f/1542545785_previewfile_1364278549.gif/revision/latest?cb=20200102224006&path-prefix=es)
+![Neta](https://static.wikia.nocookie.net/pathfinders/images/9/9f/1542545785_previewfile_1364278549.gif/revision/latest?cb=20200102224006&path-prefix=es)
 </p>
 
-# Osama Jaradat's GitHub Profile
+# Neta's GitHub Profile
 
 Welcome to my GitHub profile! This repository contains information about me, my skills, and the projects I have worked on. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! This repository contains information about me, my 
 - [Support My Work](#support-my-work)
 ## About Me
 ---
-Welcome to the GitHub repository of **Osama Jaradat**, a 2025 graduate from Tafila Technical University with a degree in Cyber Security. Throughout my studies, I excelled academically, gaining experience in various fields.
+Welcome to the GitHub repository of **Osama Jr.**, a 2025 graduate from Tafila Technical University with a degree in Cyber Security. Throughout my studies, I excelled academically, gaining experience in various fields.
 
 ## Full-Stack Developer
 As a Full-Stack Developer, I design and develop web applications from frontend to backend using technologies such as:
