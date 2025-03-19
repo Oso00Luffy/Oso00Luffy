@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7520B&center=true&vCenter=true&multiline=true&repeat=false&random=false&&width=435&height=100&lines=EL+PSY+KONGROO;Welcome+to+my+Github+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7520B&center=true&multiline=true&repeat=false&random=false&&width=435&height=100&lines=EL+PSY+KONGROO;Welcome+to+my+Github+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="./ezgif-847f601c2748b0.webp" alt="Neta" />
