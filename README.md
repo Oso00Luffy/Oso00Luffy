@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7520B&width=435&lines=EL+PSY+KONGROO;Welcome+to+my+Github+%F0%9F%94%A5)](https://git.io/typing-svg)
 
+<p align="center">
 ![Osama](https://static.wikia.nocookie.net/pathfinders/images/9/9f/1542545785_previewfile_1364278549.gif/revision/latest?cb=20200102224006&path-prefix=es)
+</p>
 
 # Osama Jaradat's GitHub Profile
 
