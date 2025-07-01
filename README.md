@@ -90,6 +90,5 @@ _“Knowledge is a paradox. The more one understands, the more one realizes the 
 ## Support My Work
 If you find my content helpful, you can help support me here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com) 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](coff.ee/Neta) 
 [![PayPal](https://img.shields.io/badge/PayPal-%23020303.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/osamasenpaiii) 
-[![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com)
