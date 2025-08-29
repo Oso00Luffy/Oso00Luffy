@@ -7,7 +7,7 @@
 </p>
 
 
-# Neta's GitHub Profiless
+# Neta's GitHub Profile
 
 Welcome to my GitHub profile! This repository contains information about me, my skills, and the projects I have worked on. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
