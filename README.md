@@ -64,8 +64,7 @@ I design and develop **secure web applications** from frontend to backend:
 - Cybersecurity research projects  
 
 ## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/osama.143r)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/osama-jaradat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/osama.143r)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://linkedin.com/in/osama-jaradat)
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -90,5 +89,4 @@ _“Knowledge is a paradox. The more one understands, the more one realizes the 
 — Arcane Series - Viktor
 
 ## Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](coff.ee/Neta)  
-[![PayPal](https://img.shields.io/badge/PayPal-%23020303.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/osamasenpaiii)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](coff.ee/Neta)  [![PayPal](https://img.shields.io/badge/PayPal-%23020303.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/osamasenpaiii)
