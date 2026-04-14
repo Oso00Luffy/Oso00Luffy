@@ -117,10 +117,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oso00Luffy&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
 
-| GitHub Stats | Most Used Languages |
-| ------------ | ------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oso00Luffy&show_icons=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oso00Luffy&layout=compact&theme=radical) |
-
 </div>
 
 ---
