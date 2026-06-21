@@ -4,12 +4,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=900&color=2196F3&center=true&vCenter=true&multiline=true&width=980&height=150&lines=Cybersecurity+Enthusiast+%F0%9F%94%A5;Full-Stack+Developer+%F0%9F%92%BB;Security-First+Builder+%F0%9F%94%90;TTU+Cybersecurity+Graduate+2025)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Oso00Luffy&color=blueviolet&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Oso00Luffy?label=Followers&style=for-the-badge&color=blue)](https://github.com/Oso00Luffy)
 [![GitHub stars](https://img.shields.io/github/stars/Oso00Luffy?label=Stars&style=for-the-badge&color=yellow)](https://github.com/Oso00Luffy)
