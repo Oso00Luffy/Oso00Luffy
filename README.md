@@ -20,7 +20,7 @@
 
 - 🎓 2025 Cybersecurity graduate from Tafila Technical University
 - 🔐 Cybersecurity enthusiast focused on practical security engineering
-- 💻 Full-stack developer building secure, production-ready applications
+- 💻 System Administrator building secure, production-ready applications
 - 🚀 Passionate about ethical hacking, vulnerability research, and open source
 
 ---
